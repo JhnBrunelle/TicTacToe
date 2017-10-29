@@ -1,5 +1,12 @@
-# TicTacToe
-Java Tic Tac Toe Game, implemented using Hash Tables
+# Tic Tac Toe
+A simple Tic Tac Toe game written in Java.
+
+### Game Features:
+- AI Computer opponent
+- Customizable board size
+- Blockable spaces
 
 ### To Run:
-```$ java Play <board size> <inline to win> <depth> <blocked spots ...>
+```
+$ java Play <board size> <inline to win> <depth> <blocked spots ...>
+```
