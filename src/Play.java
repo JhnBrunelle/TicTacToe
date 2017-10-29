@@ -110,7 +110,7 @@ public class Play extends JFrame {
         JFrame gameWindow = new Play(size, toWin, depth, numOfBlocked, blocked);
 
         // Set screen size
-        gameWindow.setSize(size * 100, size * 100);
+        gameWindow.setSize(size * 90, size * 100);
         gameWindow.setVisible(true);
 
         // Listen for closing events
